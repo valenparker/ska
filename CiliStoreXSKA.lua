@@ -3226,7 +3226,7 @@ do
 				Note = "Over 100% may glitch",
 				Min = 50,
 				Max = 1000,
-				Default = 100,
+				Default = 1000,
 				Increment = 1,
 				Unit = "%",
 				Callback = function(arg)
@@ -3238,7 +3238,7 @@ do
 				Name = "Carry Speed",
 				Min = 80,
 				Max = 1000,
-				Default = 100,
+				Default = 1000,
 				Increment = 1,
 				Unit = "%",
 				Callback = function(arg)
