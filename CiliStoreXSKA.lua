@@ -3225,7 +3225,7 @@ do
 				Name = "Tween Speed",
 				Note = "Over 100% may glitch",
 				Min = 50,
-				Max = 120,
+				Max = 1000,
 				Default = 100,
 				Increment = 1,
 				Unit = "%",
@@ -3237,7 +3237,7 @@ do
 			v19:CreateSlider({
 				Name = "Carry Speed",
 				Min = 80,
-				Max = 120,
+				Max = 1000,
 				Default = 100,
 				Increment = 1,
 				Unit = "%",
