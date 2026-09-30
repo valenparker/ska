@@ -11465,8 +11465,8 @@ do
 			local colorSequence2 = ColorSequence.new({ ColorSequenceKeypoint.new(0, Color3.fromRGB(0, 36, 84)), new2(1, color2(0, 31, 54)) })
 			local colorSequence3 = ColorSequence.new
 			local tbl29 = {}
-			local v20 = ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 193, 194))
-			local v21 = ColorSequenceKeypoint.new(0.057, Color3.fromRGB(255, 132, 123))
+			local v20 = ColorSequenceKeypoint.new(0, Color3.fromRGB(220, 220, 220))
+			local v21 = ColorSequenceKeypoint.new(0.057, Color3.fromRGB(170, 170, 170))
 			local new3 = ColorSequenceKeypoint.new
 			local color3 = Color3.fromRGB
 			tbl29[1] = v20
@@ -11480,8 +11480,8 @@ do
 			local v22 = colorSequence3(tbl29)
 			local colorSequence4 = ColorSequence.new
 			local tbl30 = {}
-			local v23 = ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 193, 194))
-			local v24 = ColorSequenceKeypoint.new(0.015, Color3.fromRGB(255, 132, 123))
+			local v23 = ColorSequenceKeypoint.new(0, Color3.fromRGB(220, 220, 220))
+			local v24 = ColorSequenceKeypoint.new(0.015, Color3.fromRGB(170, 170, 170))
 			local new4 = ColorSequenceKeypoint.new
 			local color4 = Color3.fromRGB
 			tbl30[1] = v23
