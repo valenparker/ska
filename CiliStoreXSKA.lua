@@ -11473,7 +11473,7 @@ do
 			tbl29[2] = v21
 
 			do
-				local values = table.pack(new3(1, color3(239, 28, 28)))
+				local values = table.pack(new3(1, color3(128, 128, 128)))
 				table.move(values, 1, values.n, 3, tbl29)
 			end
 
@@ -11488,7 +11488,7 @@ do
 			tbl30[2] = v24
 
 			do
-				local values = table.pack(new4(1, color4(239, 28, 28)))
+				local values = table.pack(new4(1, color4(128, 128, 128)))
 				table.move(values, 1, values.n, 3, tbl30)
 			end
 
@@ -11631,7 +11631,7 @@ do
 				textLabel2.Parent = frame
 				createUIStroke2(textLabel2, 17)
 				textLabel2.TextColor3 = Color3.fromRGB(255, 72, 72)
-				createUIGradient(textLabel2, ColorSequence.new(Color3.fromRGB(255, 132, 123), Color3.fromRGB(239, 28, 28)), 90)
+				createUIGradient(textLabel2, ColorSequence.new(Color3.fromRGB(70, 70, 70), Color3.fromRGB(70, 70, 70)), 90)
 				fn13(textLabel2, fn12("Warn"))
 				local textLabel3 = Instance.new("TextLabel")
 				textLabel3.Name = fn3()
